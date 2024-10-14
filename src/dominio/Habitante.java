@@ -1,5 +1,6 @@
 package dominio;
-public class Habitante{
+import java.io.Serializable;
+public class Habitante implements Serializable{
 	private String nombre;
 	private String apellido1;
 	private String apellido2;
@@ -25,5 +26,8 @@ public class Habitante{
 	}
 	public String getApellido2(){
 		return apellido2;
+	}
+	public String toString(){
+		return apellido1+" "+apellido2+", "+nombre;
 	}
 }

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"dominio","l":"Habitante"},{"p":"presentacion","l":"InterfazUsuario"},{"p":"dominio","l":"OficinaPadron"},{"p":"aplicacion","l":"Principal"}]
